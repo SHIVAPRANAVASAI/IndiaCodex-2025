@@ -49,7 +49,7 @@ If deployed, add the live project link here:
 ---
 
 ## GitHub Repository
-💻 Source Code: [https://github.com/SHIVAPRANAVASAI/codex](https://github.com/SHIVAPRANAVASAI/codex)  
+💻 Source Code:https://github.com/SHIVAPRANAVASAI/IndiaCodex-2025/tree/main/Hackstormers
 
 ---
 
